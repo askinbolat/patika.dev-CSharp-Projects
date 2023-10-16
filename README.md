@@ -1,2 +1,2 @@
 # patika.dev-CSharp-Projeleri
-Başlangıç seviyesi C# eğitimi kapsamında basit, orta ve zor uygulamalar.
+Başlangıç seviyesi C# eğitimi kapsamında kolay, orta ve zor uygulamalar.
