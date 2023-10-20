@@ -2,5 +2,5 @@ Kullanıcıdan alınan boyut bilgisine göre console'a Üçgen çizen uygulamay�
 
 Dikkat Edilmesi Gereken Noktalar :
 
-*Kod tekrarından kaçınılmalı
-*Single Responsibility kuralına uygun şekilde, uygulama sınıflara ve metotlara bölünmeli.
+* Kod tekrarından kaçınılmalı
+* Single Responsibility kuralına uygun şekilde, uygulama sınıflara ve metotlara bölünmeli.
