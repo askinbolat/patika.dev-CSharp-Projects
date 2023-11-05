@@ -1,5 +1,5 @@
 * Algoritma
-** Verilen string ifade içerisindeki karakterleri bir önceki karakter ile yer değiştiren console uygulamasını yazınız.
+* * Verilen string ifade içerisindeki karakterleri bir önceki karakter ile yer değiştiren console uygulamasını yazınız.
 
 Örnek: Input: Merhaba Hello Question
 
