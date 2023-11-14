@@ -4,7 +4,7 @@ C# Console uygulaması oluşturarak aşağıdaki gereksinimleri karşılayan uyg
 * Seçilen şekle göre, kenar bilgilerin kullanıcıdan alınmalı
 * Hesaplanmak istenen boyutu kullanıcıdan alınmalı (Çevre, Alan, Hacim vb..)
 * Hesap sonucunu anlaşılır şekilde geri döndürmeli.
-* Dikkat Edilmesi Gereken Noktalar :
+Dikkat Edilmesi Gereken Noktalar :
 
 * Kod tekrarından kaçınılmalı
 * Single Responsibility kuralına uygun şekilde, uygulama sınıflara ve metotlara bölünmeli.
